@@ -1,0 +1,18 @@
+h1 {
+  color: purple;
+  border-color: yellow;
+  border-width: 2px;
+  border-style: solid;
+
+  border: 2px dashed orange;
+}
+
+li {
+  color: green;
+}
+
+body {
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/262/1015/671/space-shuttle-wallpaper-73420-wallpaper-preview.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
